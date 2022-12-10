@@ -1,7 +1,5 @@
 ## Project: CS 678: Advanced NLP - DialQA
 
-Team Member: Pankaj Jatav, Aniket Pandey, Adel Alkhamisy, Yash Bagal.
-
 The solution contains three folders 
 - Documentation (Contain PDF report, poster, proposal, and baseline report of project)
 - Code (Code implemented to solve the project problem statement)
